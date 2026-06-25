@@ -1,5 +1,3 @@
-
-
 ```powershell
 #Requires -Version 7
 <#
